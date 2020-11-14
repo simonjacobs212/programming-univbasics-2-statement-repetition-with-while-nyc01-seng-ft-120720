@@ -1,9 +1,9 @@
 # Write your code here
-counter = 11
+count = 10
 
-until counter = 0
-  counter -= 1
-  puts counter
+while count >= 1 do
+  puts count
+  count -= 1
 end
 
 puts "Happy New Year!"

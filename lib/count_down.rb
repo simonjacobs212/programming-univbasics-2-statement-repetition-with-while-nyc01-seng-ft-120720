@@ -3,5 +3,5 @@ counter = 11
 
 while counter > 0
   counter -= 1
-  puts "Happy New Year"
+  puts "counter"
 end

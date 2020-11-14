@@ -1,5 +1,5 @@
 # Write your code here
-counter = 10
+counter = 11
 
 while counter > 0
   counter -= 1
